@@ -1,0 +1,7 @@
+__title__ = 'krnl'
+__url__ = 'https://github.com/cens6r/krnl.py/'
+__author__ = 'Cens6r'
+__email__ = 'cens6r@no-email-yet'
+__license__ = 'MIT License'
+__version__ = '1.0.0'
+__description__ = 'Utilize the KRNL Api easily from python'
